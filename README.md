@@ -1,4 +1,4 @@
-* Customer Churn Prediction using Orange Data Mining *
+## Customer Churn Prediction using Orange Data Mining
 
 # Overview
 
@@ -33,4 +33,5 @@
 # Tools Used
 
 -Orange Data Mining
+
 
