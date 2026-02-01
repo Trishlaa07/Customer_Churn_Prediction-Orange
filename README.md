@@ -1,14 +1,14 @@
-Customer Churn Prediction using Orange Data Mining
+* Customer Churn Prediction using Orange Data Mining *
 
-#Overview
+# Overview
 
 -This project focuses on predicting customer churn in the telecom sector using machine learning techniques implemented in Orange Data Mining. The goal is to identify customers who are likely to leave the service based on historical customer data.
 
-#Problem Statement
+# Problem Statement
 
 -To build a classification model that predicts whether a customer will churn, helping businesses take proactive retention measures.
 
-Dataset
+# Dataset
 
 -Telco Customer Churn Dataset
 
@@ -33,3 +33,4 @@ Dataset
 # Tools Used
 
 -Orange Data Mining
+
